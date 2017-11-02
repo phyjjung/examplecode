@@ -2,12 +2,18 @@
   "name": "functions",
   "description": "Cloud Functions for Firebase",
   "dependencies": {
+    "apiai": "^4.0.3",
+    "botframework-directlinejs": "^0.9.11",
+    "file-url": "^2.0.2",
+    "fire-url": "^0.1.7",
     "firebase-admin": "~4.2.1",
     "firebase-functions": "^0.5.7",
+    "fs": "0.0.1-security",
     "open": "0.0.5",
     "request": "^2.81.0",
     "request-promise": "^4.2.1",
-    "swagger-client": "^2.1.18"
+    "swagger-client": "^2.1.18",
+    "xhr2": "^0.1.4"
   },
   "private": true
 }

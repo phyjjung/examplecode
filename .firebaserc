@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "mybotapp-83e30"
+    "default": "mybotapp-83e30",
+    "cloud": "testchatapp-3d4ba",
+    "staging": "mybotapp-83e30"
   }
 }
